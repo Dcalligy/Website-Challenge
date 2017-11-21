@@ -1,5 +1,4 @@
 # Website-Challenge
-Need to edit:
-- Text content
-- Testimonials
-- Add better images
+Need to add:
+- Content from client
+- Link contact form to clients website.
