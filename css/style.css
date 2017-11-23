@@ -9,7 +9,7 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #666666;
+  color: #000000;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: linear-gradient(rgb(4, 10, 63), rgba(255, 255, 255, 0.9));
+  background: linear-gradient(rgba(26, 7, 70, 0.9), rgba(255, 255, 255, 0.9));
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -510,7 +510,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Services Section
 --------------------------------*/
 #services {
-  background: linear-gradient(rgb(4, 10, 63), rgba(255, 255, 255, 0.9)), url("../img/horses.jpg") fixed center center;
+  background: linear-gradient(rgba(26, 7, 70, 0.9), rgba(255, 255, 255, 0.9)), url("../img/horses.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
 }
