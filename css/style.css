@@ -529,17 +529,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .service-icon i {
-  color: rgba(26, 7, 70, 0.9);
+  color: rgba(252, 247, 247, 0.9);
   font-size: 24px;
 }
 
-#services .service-item:hover .service-icon {
-  background: rgba(26, 7, 70, 0.9);
-}
+/*#services .service-item:hover .service-icon {
+  background: none;
+}*/
 
-#services .service-item:hover .service-icon i {
+/*#services .service-item:hover .service-icon i {
   color: rgba(26, 7, 70, 0.9);
-}
+}*/
 
 #services .service-title {
   margin-left: 80px;
