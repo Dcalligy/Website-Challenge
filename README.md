@@ -5,6 +5,8 @@ Website created using the Imperial Bootstrap Template.
 
 Team 4 Crew: Dillon Calligy, Diego Londono, Jesus Rodgriguez and Manual Santiago 
 
+Our current progress: https://dcalligy.github.io/Website-Challenge/
+
 Need to add...aka final touches:
 - Content from client (will have to come up with on our own....)
 - Link contact form to clients email.
