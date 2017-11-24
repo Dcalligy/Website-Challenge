@@ -521,24 +521,24 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .service-icon {
   float: left;
-  background: #03C4EB;
+  background: rgba(26, 7, 70, 0.9);
   padding: 16px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #03C4EB;
+  border: 1px solid rgba(26, 7, 70, 0.9);
 }
 
 #services .service-icon i {
-  color: #fff;
+  color: rgba(26, 7, 70, 0.9);
   font-size: 24px;
 }
 
 #services .service-item:hover .service-icon {
-  background: #fff;
+  background: rgba(26, 7, 70, 0.9);
 }
 
 #services .service-item:hover .service-icon i {
-  color: #03C4EB;
+  color: rgba(26, 7, 70, 0.9);
 }
 
 #services .service-title {
