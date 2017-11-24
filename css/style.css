@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: linear-gradient(rgba(42, 3, 139, 0.9), rgba(255, 255, 255, 0.9));
+  background: linear-gradient(rgb(62, 1, 216), rgba(255, 255, 255, 0.9));
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -510,7 +510,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Services Section
 --------------------------------*/
 #services {
-  background: linear-gradient(rgba(42, 3, 139, 0.9), rgba(255, 255, 255, 0.9)), url("../img/horses.jpg") fixed center center;
+  background: linear-gradient(rgb(62, 1, 216), rgba(255, 255, 255, 0.9)) ,url("../img/horses.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
 }
@@ -864,5 +864,4 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-size: 13px;
   color: #ccc;
-  
 }
