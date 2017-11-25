@@ -16,3 +16,4 @@ Need to add...aka final touches:
 - Link contact form to clients email.
 - Add a tab browser icon.
 - Find an SVG for "Our Motto" section
+- Delete unnecessary comments
