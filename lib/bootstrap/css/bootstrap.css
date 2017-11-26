@@ -268,7 +268,7 @@ th {
 }
 .glyphicon {
   position: relative;
-  top: 1px;
+  top: -14px;
   display: inline-block;
   font-family: 'Glyphicons Halflings';
   font-style: normal;
