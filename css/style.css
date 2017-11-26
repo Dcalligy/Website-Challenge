@@ -521,14 +521,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .service-icon {
   float: left;
-  padding: 16px;
+  padding: 11px;
   border-radius: 50%;
   transition: 0.5s;
 }
 
 #services .service-icon i {
-  color: rgb(62, 1, 216);
-  font-size: 24px;
+  color: rgb(15, 15, 15);
+  font-size: 20px;
 }
 
 /*#services .service-item:hover .service-icon {
