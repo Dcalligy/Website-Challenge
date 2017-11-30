@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: linear-gradient(rgb(62, 1, 216), rgba(255, 255, 255, 0.9));
+  background: linear-gradient(rgb(5, 9, 240), rgba(255, 255, 255, 0.9));
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -510,7 +510,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Services section AKA Our Motto section
 --------------------------------*/
 #services {
-  background: linear-gradient(rgb(62, 1, 216), rgba(255, 255, 255, 0.9)) ,url("../img/horses.jpg") fixed center center;
+  background: linear-gradient(rgb(5, 9, 240), rgba(255, 255, 255, 0.9)), url("../img/horses.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
 }
@@ -521,11 +521,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .service-icon {
   float: left;
-  background: rgb(62, 1, 216);
+  background: rgb(5, 9, 240);
   padding: 5px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid rgb(62, 1, 216);
+  border: 1px solid rgb(5, 9, 240);
 }
 
 #services .service-icon i {
