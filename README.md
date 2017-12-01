@@ -3,7 +3,7 @@ Fall 2017 Website challenge for CGS 3175-17. If we win our website will get publ
 
 Website created using the Imperial Bootstrap Template. 
 
-Team 4 Crew: Dillon Calligy, Diego Londono, Jesus Rodgriguez and Manual Santiago 
+Team 4 Crew: Dillon Calligy, Diego Londono, Jesus Rodriguez and Manual Santiago 
 
 Our current progress: https://dcalligy.github.io/Website-Challenge/
 
