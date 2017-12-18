@@ -1,5 +1,5 @@
 # Website-Challenge
-Fall 2017 Website challenge for CGS 3175-17. If we win our website will get published!
+Fall 2017 Website challenge for CGS 3175-17. If we win our website will get published(WE WON)!
 
 Website created using the Imperial Bootstrap Template. 
 
